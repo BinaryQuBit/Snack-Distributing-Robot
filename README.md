@@ -62,6 +62,6 @@
 
 <br>
 
-- <a href = "#">Schematic</a>
+- <a href = "https://github.com/BinaryQuBit/Snack-Distributing-Robot/blob/main/Documents/Schematic.pdf">Schematic</a>
 
-- <a href = "#">Project Report</a>
+- <a href = "https://github.com/BinaryQuBit/Snack-Distributing-Robot/blob/main/Documents/Project%20Report.pdf">User Manual</a>
