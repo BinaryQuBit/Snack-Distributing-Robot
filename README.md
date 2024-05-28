@@ -98,7 +98,7 @@
 ### Constraints:
 - The robot's operational time is limited by its battery life, requiring periodic recharging or battery replacement
 - The robot is designed to operate on flat surfaces only and may not function correctly on uneven or textured surfaces
--  The effectiveness of the line-following capability is constrained by the visibility and integrity of the black line on the dining table
+- The effectiveness of the line-following capability is constrained by the visibility and integrity of the black line on the dining table
 - The robot's weighing mechanism has a maximum weight limit for the snack bowl, beyond which it cannot provide accurate measurements
 - The ultrasonic sensor has a limited detection range, affecting the robot's ability to detect obstacles that are too far or too close
 - The photoelectric sensor's performance is influenced by the ambient lighting conditions, which can affect the LCD backlight dimming feature
@@ -106,8 +106,8 @@
 - The robot is designed to follow a simple, continuous path and may not handle complex intersections or multiple branching paths effectively
 - Regular maintenance is required to ensure the sensors and mechanical parts of the robot remain in optimal working condition
 - The budget for building and maintaining the robot is constrained, impacting the choice of components and overall design
--  Users need to be familiar with the robot's operation, requiring instructions and possibly a learning curve for effective use
--  The robot's performance may be affected by environmental factors such as dust, moisture, and temperature variations, necessitating protective measures
+- Users need to be familiar with the robot's operation, requiring instructions and possibly a learning curve for effective use
+- The robot's performance may be affected by environmental factors such as dust, moisture, and temperature variations, necessitating protective measures
 
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/techStack.svg" style="width: 100%"></a>
@@ -170,14 +170,14 @@
 - Conduct extensive user testing to gather feedback on the robot’s performance and usability, identifying areas for improvement
 - Refine the robot's design and software based on user feedback, focusing on enhancing navigation accuracy, obstacle detection, and weight measurement
 - Explore options to extend battery life or implement more efficient power management solutions to increase operational time
--  Investigate ways to improve the robot's performance on various surfaces, including slightly uneven or textured areas
+- Investigate ways to improve the robot's performance on various surfaces, including slightly uneven or textured areas
 - Develop algorithms to handle more complex paths, such as intersections or multiple branches, increasing the robot’s versatility
 - Establish regular maintenance protocols to ensure the longevity and reliability of the robot’s sensors and mechanical components
 - Identify and implement cost-saving measures to make the robot more affordable for a wider audience without compromising quality
 - Create comprehensive user manuals and training materials to help users understand and effectively operate the robot
 - Design protective measures to safeguard the robot against environmental factors such as dust, moisture, and temperature fluctuations
--  Conduct a market analysis to identify potential target markets and opportunities for commercializing the robot
--  Explore additional features such as voice control, mobile app integration, or custom snack distribution patterns to enhance user experience
+- Conduct a market analysis to identify potential target markets and opportunities for commercializing the robot
+- Explore additional features such as voice control, mobile app integration, or custom snack distribution patterns to enhance user experience
 - Seek partnerships with companies or institutions in the home automation, robotics, and hospitality sectors to further develop and promote the robot
 
 <br>
@@ -189,7 +189,6 @@
 <br>
 
 - <a href = "https://github.com/BinaryQuBit/Snack-Distributing-Robot/blob/main/Documents/Schematic.pdf">Schematic</a>
-
 - <a href = "https://github.com/BinaryQuBit/Snack-Distributing-Robot/blob/main/Documents/Project%20Report.pdf">User Manual</a>
 
 <br>
