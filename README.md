@@ -109,6 +109,8 @@
 - Users need to be familiar with the robot's operation, requiring instructions and possibly a learning curve for effective use
 - The robot's performance may be affected by environmental factors such as dust, moisture, and temperature variations, necessitating protective measures
 
+<br>
+
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/techStack.svg" style="width: 100%"></a>
 </div>
