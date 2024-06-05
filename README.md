@@ -11,6 +11,12 @@
 
 <br>
 
+<div align="center" style="width: 100%;">
+    <a href="https://www.youtube.com/shorts/USVpisFYPmc"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/snackDistributingRobot.gif?raw=true" style="width: 100%">Final Product</a>
+</div>
+
+<br>
+
 <div align="center">
   <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/images/snackDistributingRobotFrontView.jpg?raw=true" width="32%"></a>
   <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/images/snackDistributingRobotTopView.jpg?raw=true" width="32%"></a>
